@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on multiple projects: **GradeLabs, and UrWealth**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript, C++**
 
 - 👯 I’m looking to collaborate on **a game development project**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Quinn</h1>
+<h1>Hi 👋, I'm Quinn</h1>
 
 🔭 I’m currently working on a text based RPG in C++
 

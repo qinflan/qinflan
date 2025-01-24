@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quinn</h1>
-# 💫About Me :
+
 🔭 I’m currently working on a text based RPG in C++
 
 🌱 I’m currently learning TypeScript, C++

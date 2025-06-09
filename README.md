@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Quinn</h1>
 
-🔭 I’m currently working on a text based RPG in C++
+🔭 I’m currently working on a cyber security study iOS app called Script Kitty
 
-🌱 I’m currently learning TypeScript, C++
+🌱 I’m learning Swift and C++ right now
 
 👯 I’m looking to collaborate on a game development project
 

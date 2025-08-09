@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Quinn</h1>
 
-🔭 I’m currently working on a cyber security study iOS app called Script Kitty
+🔭 I’m currently working on a cyber security study iOS app called Script Kitty and a website for my rock band.
 
 🌱 I’m learning Swift and C++ right now
 

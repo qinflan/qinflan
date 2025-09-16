@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Quinn</h1>
 
-🔭 I’m currently working on a cyber security study iOS app called Script Kitty and a website for my rock band.
+🔭 I’m currently working on a 2000s inspired dungeon crawler game for browser
 
-🌱 I’m learning Swift and C++ right now
+🌱 I’m learning Go and WebGL right now
 
-👯 I’m looking to collaborate on a game development project
+👯 I’m looking to collaborate on a game development project!
 
 
 ## 🌐Socials

@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Currently working on a Playstation 1 style graphics shader in WebGL and a legislation tracker app in React<br>📚 I'm learning Go and Swift<br>🎯 Looking to collaborate on a game development project!<br>⛰️ I love playing music, hiking, and cooking</p>
+<p align="left">✨ Currently working on an animated shader gradient generator in WebGL and a legislation tracker app in React<br>📚 I'm learning Go and Swift<br>🎯 Looking to collaborate on a game development project!<br>⛰️ I love playing music, hiking, and cooking</p>
 
 ###
 

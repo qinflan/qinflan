@@ -2,7 +2,7 @@
 
 **`Full-Stack Software Developer`**
 
-I'm a full-stack developer that loves to solve problems with code. I find myself spending a lot of time programming and building ideas I think are important--or just cool. I've worked on various projects that focus on **Software Engineering, Web Development, Mobile App Development, Embedded Systems, IT Homelabbing, Music**, or other topics. I pride myself on being able to troubleshoot issues quickly, whether its hardware or software. 
+I love solving problems with code. I find myself spending a lot of time programming and building ideas I think are important--or just cool. I've worked on various projects that focus on **Software Engineering, Web Development, Mobile App Development, Embedded Systems, IT Homelabbing, Music**, or other topics. I pride myself on being able to troubleshoot issues quickly, whether its hardware or software. 
 
 ### Languages and Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)

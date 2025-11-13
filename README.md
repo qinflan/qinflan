@@ -3,6 +3,10 @@
 **`Full-Stack Software Developer`**
 
 I love solving problems with code. I find myself spending a lot of time programming and building ideas I think are important--or just cool. I've worked on various projects that focus on **Software Engineering, Web Development, Mobile App Development, Embedded Systems, IT Homelabbing, Music**, or other topics. I pride myself on being able to troubleshoot issues quickly, whether its hardware or software. 
+<br><br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/quinn-flanigan/)  [![Resume](https://img.shields.io/badge/-Resume-0A66C2?style=flat-square)](https://drive.google.com/file/d/1KVd2skc2GVwp6LP59xVfW-pvfpAbt9bS/view?usp=sharing)  [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square)](https://www.quinnflanigan.com/)
+<br>
+##
 
 ### Languages and Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
@@ -44,7 +48,3 @@ I love solving problems with code. I find myself spending a lot of time programm
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qinflan&hide=CSS&layout=compact&card_width=400\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515&border_color=333333)](https://github.com/anuraghazra/github-readme-stats)
-
-## Socials
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/quinn-flanigan/)  [![Resume](https://img.shields.io/badge/-Resume-0A66C2?style=flat-square)](https://drive.google.com/file/d/1KVd2skc2GVwp6LP59xVfW-pvfpAbt9bS/view?usp=sharing)  [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square)](https://www.quinnflanigan.com/)

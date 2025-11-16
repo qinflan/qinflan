@@ -2,7 +2,7 @@
 
 **`Full-Stack Software Developer`**
 
-I love solving problems with code. I find myself spending a lot of time programming and building ideas I think are important--or just cool. I've worked on various projects that focus on **Software Engineering, Web Development, Mobile App Development, Embedded Systems, IT Homelabbing, Music**, or other topics. I pride myself on being able to troubleshoot issues quickly, whether its hardware or software. 
+I love solving problems with code. I find myself spending a lot of time programming and building ideas I think are important--or just cool!
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/quinn-flanigan/)  [![Resume](https://img.shields.io/badge/-Resume-0A66C2?style=flat-square)](https://drive.google.com/file/d/1KVd2skc2GVwp6LP59xVfW-pvfpAbt9bS/view?usp=sharing)  [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square)](https://www.quinnflanigan.com/)
 <br>
